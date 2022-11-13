@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navneethvi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
