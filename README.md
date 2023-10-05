@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @navneethvi
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web development.
+- 📫 How to reach me @navneethv_ on instagram
 
 <!---
 navneethvi/navneethvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
