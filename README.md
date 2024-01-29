@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @navneethvi
-  If you think you know me... Think again!!
+- If you think you know me... Think again!!
 
 <!---
 navneethvi/navneethvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
