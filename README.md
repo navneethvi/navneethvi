@@ -1,4 +1,3 @@
-- ![](https://komarev.com/ghpvc/?username=navaneethvi&color=dc143c)
 
 - If you think you know me... Think again!!
 
