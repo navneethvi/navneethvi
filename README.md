@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=navaneethvi&color=dc143c)
 
 - If you think you know me... Think again!!
 
