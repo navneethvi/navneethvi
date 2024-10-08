@@ -7,4 +7,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-(https://github-readme-streak-stats.herokuapp.com?user=navneethvi&theme=transparent&hide_border=true&card_width=456)](https://git.io/streak-stats)
